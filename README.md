@@ -3,7 +3,7 @@
 A clean and responsive educational website landing page built using **HTML5** and **CSS3**.
 
 ## 🚀 Live Demo
-👉 https://yourusername.github.io/educational-landing-page/
+👉 [https://yourusername.github.io/educational-landing-page/](https://carmenn0844a.github.io/Educational-landing-page/)
 
 ## 🛠️ Technologies Used
 - HTML5
